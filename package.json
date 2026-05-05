@@ -102,5 +102,8 @@
     "*.{json,md,yml,yaml}": [
       "prettier --write"
     ]
+  },
+  "resolutions": {
+    "uuid": "^14.0.0"
   }
 }
